@@ -1,8 +1,4 @@
-﻿# Título del trabajo
-
-###### Robot centinela
-
-#Descripción breve del proyecto a realizar (2-3 frases).
+﻿## Robot centinela
 
 El proyecto consiste en un robot que detecte sonidos y vaya hacia ellos, grabe imganes de 
 lo que emite el sonido, y sea capaz de guardar esas imagenes por si se quieren ver luego,
